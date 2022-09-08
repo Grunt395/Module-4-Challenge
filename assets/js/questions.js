@@ -2,16 +2,16 @@ var questions = [
     {
         title: 'Question 1',
         choices: ["a", "b", "c", "d"],
-        answers: "a"
+        answer: "a"
     },
     {
         title: 'Question 2',
         choices: ["a", "b", "c", "d"],
-        answers: "b"
+        answer: "b"
     },
     {
         title: 'Question 3',
         choices: ["a", "b", "c", "d"],
-        answers: "c"
+        answer: "c"
     }
 ]

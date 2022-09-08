@@ -15,3 +15,25 @@ body {
 .hide {
     display: none;
 }
+
+#home-menu {
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#home-menu h1 {
+    -webkit-text-stroke: 1px red;
+}
+
+#questions {
+    font-size: x-large;
+}
+
+
+/* .choice {
+    size: 200px;
+} */
+
+/* button {
+    size: 200%;
+} */
