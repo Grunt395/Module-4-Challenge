@@ -20,7 +20,30 @@
             </section>
         </nav>
     </header>
+    <section>
+        <div>
+            <h1>Quiz Challenge</h1>
+            <p>Instructions: </p>
+            <button id="start-button">Start Quiz</button>
+        </div>
+    </section>
 
+    <section class="questions">
+        <h2 class="questions-title"></h2>
+        <div id="questions-choices"></div>
+    </section>
+
+    <section id="end-menu" class="hide">
+        <h2>Finished!</h2>
+        <p>Your final score is <span id="final-score"></span></p>
+        <div>
+            <label>Enter initials:</label>
+            <input type="text" id="initials" max="3">
+            <button id="submit">Submit</button>
+        </div>
+    </section>
+
+    <section id="feedback" class="hide"></section>
 
 </body>
 
